@@ -1,0 +1,25 @@
+This program allows to save and read information using Formatter and Scanner class respectively.
+
+Before running this program, it necessary to copy the whole of estateManagement folder inside the setup folder.
+This estateManagement serves as a local database forb this program, therefore to save the data this folder needs to be 
+created in the root directory (i.e. C:\estateManagement).
+ 
+Information can be altered and deleted but restoration of deleted information automatically 
+has not been coded, but can be checked manually on the hard drive by following the Garbage URL: "C:\estateManagement\ZGarbage".
+All images and icon used in this program are located in this URL: "C:\estateManagement\Resources\".
+
+The real inspiration behind this program is to create something for agents in Nigeria who deals in leasing properies. There is need 
+for them to keep records of their clients, date they moved in, and when their rent will expire.
+
+
+Regards.
+Adedayo Matthews
+  
+----------------------------------------------------
+phone: +2348139004572
+facebook: www.facebook.com/kayode.adedayo1
+email: adedayomatt@gmail.com
+Instagram: @adedayomatt
+Twitter: @adedayomatt
+------------------------------------------------------
+ 
